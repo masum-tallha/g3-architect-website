@@ -109,6 +109,26 @@ header{
   font-weight: 500;
 }
 /* teams style end */
+/* featurs section start */
+#features-section-title{
+  border-left: 5px solid #FF900E;
+  padding-left: 20px;
+}
+.features{
+  gap: 140px;
+}
+.features-card{
+  border-radius: 8px;
+  padding: 30px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06) ;
+}
+.featture-title{
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+/* features section end */
 /* fact card */
 .fact-container{
   display: grid;
